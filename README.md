@@ -1,6 +1,6 @@
 # grasshopper-forum
 
-A snapshot of [Ladybug Tools forum on Grasshopper3d website](http://www.grasshopper3d.com/group/ladybug/forum) on 25 July 2017 in `json` format.
+A snapshot of [Ladybug Tools forum on Grasshopper3d website](http://www.grasshopper3d.com/group/ladybug/forum) on 30 August 2017 in `json` format.
 
 These files are created as for transferring from the [old forum](http://www.grasshopper3d.com/group/ladybug/forum) to the [new forum](http://discourse.ladybug.tools).
 
