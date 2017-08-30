@@ -20,6 +20,7 @@ Here is the strcuture of each object.
 
 ```javascript
   discussion = {
+      'id': string,
       'topic': string,
       'created_by': string,
       'created_by_name': string,
@@ -31,6 +32,7 @@ Here is the strcuture of each object.
 
 
   reply = {
+      'id': string,
       'created_by': string,
       'created_by_name': string,
       'created_at': datetime,
