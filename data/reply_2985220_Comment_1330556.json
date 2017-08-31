@@ -1,0 +1,1 @@
+{"body": "\nThe UpdateAllObjects should do the trick. You set it to true. So it is weird that you still get the old version ...\n\n-A.\n", "attachments": [], "created_by_name": "Abraham Yezioro", "created_at": "July 22, 2015 at 8:33am", "created_by": "AbrahamYezioro", "parent_id": "reply_2985220_Comment_1330554", "id": "reply_2985220_Comment_1330556"}

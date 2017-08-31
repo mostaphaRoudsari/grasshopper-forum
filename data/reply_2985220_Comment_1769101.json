@@ -1,0 +1,1 @@
+{"body": "\nHi Brett,\n\n\n\nTry to copy the files locally and use the local path (not the path on the network). Cmd doesn't like UNC paths.\n\n\n\nMostapha\n", "attachments": [], "created_by_name": "Mostapha Sadeghipour Roudsari", "created_at": "June 14, 2017 at 5:01pm", "created_by": "MostaphaSadeghipour", "parent_id": "topic_1769327", "id": "reply_2985220_Comment_1769101"}

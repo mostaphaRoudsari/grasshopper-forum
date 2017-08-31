@@ -1,0 +1,1 @@
+{"body": "\n1. You need to connect the floor to geometry input and not context.\n\n2. The floor surface is looking downwards. Make sure to flip the surface.\n", "attachments": [], "created_by_name": "Mostapha Sadeghipour Roudsari", "created_at": "June 27, 2016 at 11:53pm", "created_by": "MostaphaSadeghipour", "parent_id": "topic_1556498", "id": "reply_2985220_Comment_1556742"}

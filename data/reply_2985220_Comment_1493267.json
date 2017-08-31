@@ -1,0 +1,1 @@
+{"body": "\nWe don't have fans implemented in Honeybee however you can add fan objects to idf file using additionalStrings_ in Run Energy Simulation component.\n", "attachments": [], "created_by_name": "Mostapha Sadeghipour Roudsari", "created_at": "March 27, 2016 at 1:01pm", "created_by": "MostaphaSadeghipour", "parent_id": "topic_1492126", "id": "reply_2985220_Comment_1493267"}
