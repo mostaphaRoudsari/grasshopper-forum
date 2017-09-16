@@ -1,1 +1,0 @@
-{"body": "\nI haven't done it myself but I imagine you can use Optics to generate a BSDF for the glass and assign it to glass for daylight simulation.\n", "attachments": [], "created_by_name": "Mostapha Sadeghipour Roudsari", "created_at": "May 12, 2016 at 7:27am", "created_by": "mostapha", "parent_id": "topic_1528595", "id": "reply_2985220_Comment_1529022"}

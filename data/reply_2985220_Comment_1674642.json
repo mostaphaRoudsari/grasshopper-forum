@@ -1,1 +1,0 @@
-{"body": "\nIssue solved. I had a glazing element with a BSDF assignment, which was causing the error.\n", "attachments": [], "created_by_name": "Paul Diaz", "created_at": "January 18, 2017 at 4:37pm", "created_by": "PaulDiaz", "parent_id": "reply_2985220_Comment_1674719", "id": "reply_2985220_Comment_1674642"}
