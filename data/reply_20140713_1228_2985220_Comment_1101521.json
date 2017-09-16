@@ -1,0 +1,1 @@
+{"body": "You need to pass your zones through solveAdj component so it can understand which walls are internal.", "attachments": [], "created_by_name": "Mostapha Sadeghipour Roudsari", "created_at": "July 13, 2014 at 12:28PM", "created_by": "mostapha", "parent_id": "topic_1101622", "id": "reply_2985220_Comment_1101521"}

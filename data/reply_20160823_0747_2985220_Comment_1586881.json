@@ -1,0 +1,1 @@
+{"body": "\nJust from reading the error message one of the point inputs are null. You need to clean the list of points before creating the recipe.\n", "attachments": [], "created_by_name": "Mostapha Sadeghipour Roudsari", "created_at": "August 23, 2016 at 07:47AM", "created_by": "mostapha", "parent_id": "topic_1586527", "id": "reply_2985220_Comment_1586881"}

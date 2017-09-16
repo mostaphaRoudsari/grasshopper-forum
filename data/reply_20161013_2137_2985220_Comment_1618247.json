@@ -1,0 +1,1 @@
+{"body": "\nYou probably need to pass the results through the LB_selectAndAverageData component and ask for the avrMonthlyPerHour output.\n\n-A.\n", "attachments": [], "created_by_name": "Abraham Yezioro", "created_at": "October 13, 2016 at 09:37PM", "created_by": "AbrahamYezioro", "parent_id": "topic_1618185", "id": "reply_2985220_Comment_1618247"}

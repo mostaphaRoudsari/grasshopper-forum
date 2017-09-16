@@ -1,0 +1,1 @@
+{"body": "\nThe update component should do that for you. Sometimes some components need to be reinserted, when the number of input/output items change.\n\n-A.\n", "attachments": [], "created_by_name": "Abraham Yezioro", "created_at": "July 28, 2016 at 07:59AM", "created_by": "AbrahamYezioro", "parent_id": "reply_2985220_Comment_1572513", "id": "reply_2985220_Comment_1572637"}

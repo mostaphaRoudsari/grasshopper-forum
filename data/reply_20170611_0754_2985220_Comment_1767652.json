@@ -1,0 +1,1 @@
+{"body": "\nHi Ibby, Now at least we know why don't you get the results. Set numOfCpus to 1 to avoid the split and merge. You have currently set it to 4.\n", "attachments": [], "created_by_name": "Mostapha Sadeghipour Roudsari", "created_at": "June 11, 2017 at 07:54AM", "created_by": "mostapha", "parent_id": "reply_2985220_Comment_1767515", "id": "reply_2985220_Comment_1767652"}
