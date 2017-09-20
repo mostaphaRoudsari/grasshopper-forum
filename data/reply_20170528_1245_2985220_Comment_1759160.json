@@ -1,0 +1,1 @@
+{"body": "\nSOLVED:\n\nThe problem was related with the document tolerances. Changed from 0.01 to 0.02 and it works now.\n", "attachments": [], "created_by_name": "Burak Ercan", "created_at": "May 28, 2017 at 12:45PM", "created_by": "BurakErcan", "parent_id": "topic_1759156", "id": "reply_2985220_Comment_1759160"}
